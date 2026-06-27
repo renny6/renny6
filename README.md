@@ -2,7 +2,7 @@
 
 <!-- TITLE SCREEN (HEADER) -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E+Login+successful.+Welcome.;%3E+Location%3A+Chennai%2C+India;%3E+Status%3A+Ready+for+Quests" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E+Hi!+This+is+Renny!;%3E+Login+successful.+Welcome.;%3E+Player+Class%3A+Software+Engineer;%3E+Status%3A+Ready+for+Quests" alt="Typing SVG" />
 </a>
 
 <br/><br/>
