@@ -22,14 +22,12 @@
 
 ---
 
-<!-- PLAYER LORE (ABOUT ME) -->
-## 👾 Player Lore
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
 
 </div>
 
-Greetings, traveler! I am a **Level 3 AI & Data Science Mage** currently undergoing rigorous training at the esteemed **Madras Institute of Technology**. Equipped with a deep passion for low-level mechanics and intelligent architectures, I spend my cycles **battling race conditions in C++**, meticulously **mapping virtual memory**, and crafting resilient, **zero-cloud local AI pipelines**. 
-
-Whether forging distributed backends or optimizing concurrent data streams, my spellbook is dedicated to building robust, high-performance software. I am currently **open to new opportunities and collaborations across the stack**—whether that involves diving into **Data Science & Machine Learning**, crafting **intuitive frontends**, or architecting **robust backend systems**.
+Hey! I'm an AI & Data Science student at the Madras Institute of Technology. I love building things across the entire stack—from tweaking low-level C++ systems and handling multi-threading, all the way to spinning up modern web apps and local AI pipelines.<br/><br/>I'm always experimenting with new ways to make software faster, smarter, and more private. Right now, I'm open to all sorts of new opportunities—whether that means training machine learning models, designing intuitive frontends, or architecting robust backends!
 
 <br/>
 
