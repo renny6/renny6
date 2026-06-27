@@ -35,24 +35,24 @@ Hey! I'm an AI & Data Science student at the Madras Institute of Technology. I l
 
 ---
 
-<!-- INVENTORY (TECH STACK) -->
-## 🎒 Inventory
+<!-- TECH STACK -->
+## 💻 Tech Stack
 
 <br/>
 
-### ⚔️ Weapons & Spells (Languages)
+### ⌨️ Languages
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css&theme=dark" alt="Languages Weapons" />
 
 <br/><br/>
 
-### 🔮 Magic & Artifacts (Frameworks & DBs)
+### ⚙️ Frameworks & Databases
 <br/>
 <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,mysql,postgres,redis,kafka&theme=dark" alt="Frameworks and Databases" />
 
 <br/><br/>
 
-### 🛡️ Armor & Utility (DevOps & Tools)
+### 🔧 DevOps & Tools
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,gcp,cmake,linux,vscode&theme=dark" alt="DevOps and Tools" />
 
@@ -60,8 +60,8 @@ Hey! I'm an AI & Data Science student at the Madras Institute of Technology. I l
 
 ---
 
-<!-- MAIN QUESTS (FEATURED PROJECTS GRID) -->
-## 🗺️ Main Quests
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
 
 <br/>
 
@@ -75,8 +75,8 @@ Hey! I'm an AI & Data Science student at the Madras Institute of Technology. I l
 
 ---
 
-<!-- MULTIPLAYER LOBBY (CONNECT) -->
-## 🤝 Multiplayer Lobby
+<!-- LET'S CONNECT -->
+## 📫 Let's Connect
 
 <br/>
 
