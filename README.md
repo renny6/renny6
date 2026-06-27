@@ -1,12 +1,8 @@
 <div align="center">
 
 <!-- TITLE SCREEN (HEADER) -->
-<img src="darks/download(6).jpeg" alt="Renny R Banner" width="100%" />
-
-<br/>
-
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E+Skill+Tree%3A+Systems+%26+Applied+LLMs;%3E+Location%3A+Chennai%2C+India;%3E+Status%3A+Ready+for+Quests" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=%3E+Login+successful.+Welcome.;%3E+Location%3A+Chennai%2C+India;%3E+Status%3A+Ready+for+Quests" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,13 +20,6 @@
 
 <br/><br/>
 
-<!-- PLAYER STATS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=rennyr&label=PROFILE+VIEWS&style=for-the-badge&color=00ff66&labelColor=0d1117" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/rennyr?label=FOLLOWERS&style=for-the-badge&color=00cc44&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/rennyr?label=STARS&style=for-the-badge&color=009922&labelColor=0d1117" alt="Stars" />
-
-<br/><br/>
-
 ---
 
 <!-- PLAYER LORE (ABOUT ME) -->
@@ -40,7 +29,7 @@
 
 Greetings, traveler! I am a **Level 3 AI & Data Science Mage** currently undergoing rigorous training at the esteemed **Madras Institute of Technology**. Equipped with a deep passion for low-level mechanics and intelligent architectures, I spend my cycles **battling race conditions in C++**, meticulously **mapping virtual memory**, and crafting resilient, **zero-cloud local AI pipelines**. 
 
-Whether forging distributed backends or optimizing concurrent data streams, my spellbook is dedicated to building robust, high-performance software. I am currently **seeking a high-level party to join** for challenging **Software Engineering Internships** and **Boss-Level Backend Quests**.
+Whether forging distributed backends or optimizing concurrent data streams, my spellbook is dedicated to building robust, high-performance software. I am currently **open to new opportunities and collaborations across the stack**—whether that involves diving into **Data Science & Machine Learning**, crafting **intuitive frontends**, or architecting **robust backend systems**.
 
 <br/>
 
