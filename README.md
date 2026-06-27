@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TITLE SCREEN (HEADER) -->
-<img src="docs/download%20(6).jpeg" alt="Renny R Banner" width="100%" />
+<img src="darks/download(6).jpeg" alt="Renny R Banner" width="100%" />
 
 <br/>
 
